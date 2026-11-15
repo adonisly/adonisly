@@ -1,5 +1,6 @@
 ### Hi, I'm Chris Wang
 
 - **Consulting Engineering Technical Leader** at **Cisco**, focused on data center and enterprise networking.
-- Outside of work, I enjoy reading and hiking.
 - Portfolio & notes: [inklinks.io](https://inklinks.io/)
+- Contact: chriswang0328@gmail.com
+- Contact: spookfox@163.com
